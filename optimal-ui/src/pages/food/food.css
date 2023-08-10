@@ -1,0 +1,4 @@
+.food_container{
+    background:linear-gradient(90deg , rgb(196 98 210) 0%, rgb(120 105 157) 35%, rgb(178 86 64) 100%);
+    padding: 60px;
+}

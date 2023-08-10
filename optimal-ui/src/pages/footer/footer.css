@@ -1,0 +1,17 @@
+.footer_background{
+    background-color: #626262;
+    color: white;
+    padding: 25px;
+}
+.footer_text{
+    font-size: 18px;
+    font-weight: 400;
+}
+.footer_textHeading{
+    font-size: 18px;
+    font-weight: 500;  
+    text-align: end;
+}
+.row{
+    margin: 0;
+}

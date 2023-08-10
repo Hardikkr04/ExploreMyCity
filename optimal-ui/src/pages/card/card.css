@@ -1,0 +1,38 @@
+.card-conatiner{
+    padding: 20px;
+}
+.subTitle{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: 0.17em;
+    color: #FFFFFF;
+}
+.link-text{
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    text-decoration-line: underline;
+    color: #FFFFFF;
+}
+.title{
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px; 
+    color: #FFFFFF;
+    margin-top: 10px;
+}
+.dateTitle{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 15px;
+    color: #FFFFFF;
+    margin-top: 10px;
+}
+.text{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    color: #FFFFFF;
+    margin-top: 10px;
+}

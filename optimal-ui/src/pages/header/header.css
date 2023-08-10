@@ -1,0 +1,25 @@
+.header_background{
+    background:linear-gradient(90deg , rgb(235, 220, 121) 0%, rgb(124 193 108) 35%, rgb(55 155 236) 100%);
+    color: #FFFFFF;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;;
+}
+.left_menu{
+   font-size: 22px;
+   font-weight: 700;
+   line-height: 32px;
+   flex: 1;
+}
+.right_menu{
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    cursor: pointer;
+}
+.left_menu > a{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+.right_menu > a{
+    text-decoration: none;
+    color: #FFFFFF;
+}
